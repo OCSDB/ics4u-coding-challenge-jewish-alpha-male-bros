@@ -23,7 +23,7 @@ Cell.prototype.show = function() {
   rect(this.x, this.y, this.w, this.w);
   if (this.revealed) {
     if (this.bee) {
-      fill(127);
+      fill(255, 0, 0);
       ellipse(this.x + this.w * 0.5, this.y + this.w * 0.5, this.w * 0.5);
     } else {
       fill(200);
