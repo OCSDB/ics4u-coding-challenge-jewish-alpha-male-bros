@@ -6,7 +6,7 @@ Mike,Sean
 | Time           | Content                 |
 | -------------  | -------------           |
 | 10:38 - 10:44  | Intro to Introduction   |
-|                |  to Minesweeper         |
+                   to Minesweeper         
 | 10:44 - 11:25  | coding live             |
 | 11:25 - 11:38  | consept exsplantions    |
 | 11:38 - 11:45  | spinoffs                |
