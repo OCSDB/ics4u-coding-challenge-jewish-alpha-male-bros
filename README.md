@@ -1,21 +1,44 @@
-# CodingChallenge
-Coding Challenge Starter Repository
+# CodingChallenge:Minesweeper
+Mike,Sean
 
-Deliverables:
+### Presentation Plan
 
-1. The code for each of your projects: Each person in the team is responsible for creating their own copy of the challenge.
-2. Plan for your Coding Challenge. (Breakdown how the 90 minutes will be used)
-3. Collecting Created challenges by participants.
-4. Anything created live. (if you made something live, include it after)
-5. a README.md file that explains the coding challenge.
-6. Any notes/slides created (google or github)
-7. Link to repository if it was created in another repository.
+| Time           | Content                 |
+| -------------  | -------------           |
+| 10:38 - 10:44  | Intro to Introduction   |
+|                |  to Minesweeper         |
+| 10:44 - 11:25  | coding live             |
+| 11:25 - 11:38  | consept exsplantions    |
+| 11:38 - 11:45  | spinoffs                |
+| 11:45 - 11:53  | questions               |
 
-Notes:
-* You must use the project board to maintain the status of your project.
-* You must use your wiki page to explain your project
-* Each person must have their own original version of the challenge with one creative twist(Algorithmic is level 3 or object oriented is level 4)
-* You must make a significant connection to:
-    1. Creative coding(explaining to the class how they can incorporate this into their workflow as a learner of technology)
-    2. One research article that connects to computer science.
-    3. One aspect of emerging technology that is highlighted and briefly touched uppn.
+### Computer science concept: Abstraction
+
+Abstraction is the process of removing specific details to more attend to other details which aren’t as broad. Objects that have common features or object inheritance are examples of abstraction. The Cell constructor uses inheritance because these details defined by the lines in the constructor are general and applied to every cell, then some cells are changed, such as mines being placed or the number of neighboring mines being set.
+
+### Math concept: Vexels and Maxels
+Vectors to vexels (1D)
+Matrices to Maxels(2D)
+
+A singleton is a list consisting of a single number,ie a 1-list.A vexel is a M-set of singletons.A pixel is a 2-list of numbers.A maxel is an m-set of pixels.Maxels and Vexels are both an example of multisets of a certain kind.a vexel is a multi set whose entry is are singleton while a maxsels has multi set of pixels.we have seen many different  kinds of data structures like sets,multiset,lists ,ordered sets. Set as a whole is a assortment of things.
+
+Lists 
+List (x,y) L=[n1,n2,n3…,ny]                      
+Multi set Mset(x,y)m=[n1 n2...ny]
+
+Sets 
+(x,y)s={n1 n2 ...ny}
+
+
+Ordered sets                                    
+oset(x,y)O={n1,n2,..ny}
+
+
+### Emerging Technology
+
+
+### Slides
+Link:https://docs.google.com/presentation/d/1kEr_mimZRpEtjBvqRqXSEYDGTntNBsISgl0cWM4p7hs/edit#slide=id.g4d475ba490_1_0
+                                           
+                                           
+
