@@ -37,8 +37,12 @@ oset(x,y)O={n1,n2,..ny}
 Matrices are used in computer graphics for operations such as translations, rotations, scaling etc. These concepts are used  in video game graphics.In the video game industry matrices are the major mathematical concepts and tool for developers creating and manipulate a realistic animation of a polygonal figure. Many basic and advanced matrix transformations are used for a lot of software developers and game maker alike the knowledge of matrices and or Maxels is a basic necessity.
 
 
-Link
+Link/research article 
 https://sites.math.washington.edu/~king/coursedir/m308a01/Projects/m308a01-pdf/yip.pdf
+
+https://nrich.maths.org/1374
+
+https://www.quora.com/How-are-matrices-useful-in-game-development
 
 
 ### Slides
