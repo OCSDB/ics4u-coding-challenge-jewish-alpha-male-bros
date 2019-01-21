@@ -1,3 +1,4 @@
+Put your spinoffs at the bottom of the readme
 # CodingChallenge:Minesweeper
 Mike,Sean
 
@@ -50,3 +51,4 @@ Link:https://docs.google.com/presentation/d/1kEr_mimZRpEtjBvqRqXSEYDGTntNBsISgl0
                                            
                                            
 
+Spinoffs:
