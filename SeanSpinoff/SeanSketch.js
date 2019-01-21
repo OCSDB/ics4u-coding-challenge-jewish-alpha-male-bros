@@ -15,7 +15,7 @@ var secs = 0;
 var totalBees = 50;
 window.setTimeout(gameOver(), 300000);
 function setup() {
-  createCanvas(401, 451);
+  createCanvas(401, 401);
   cols = floor(width / w);
   rows = floor(height / w);
   grid = make2DArray(cols, rows);
