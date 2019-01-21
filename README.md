@@ -6,9 +6,9 @@ Mike,Sean
 | Time           | Content                 |
 | -------------  | -------------           |
 | 10:38 - 10:44  | Intro  to Minesweeper   |         
-| 10:44 - 11:25  | coding live             |
-| 11:25 - 11:38  | consept exsplantions    |
-| 11:38 - 11:45  | spinoffs                |
+| 10:44 - 11:00  | concept explantions     |
+| 11:00 - 11:40  | coding live             |
+| 11:40 - 11:45  | spinoffs                |
 | 11:45 - 11:53  | questions               |
 
 ### Computer science concept: Abstraction
